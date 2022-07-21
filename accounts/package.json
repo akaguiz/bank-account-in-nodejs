@@ -1,0 +1,16 @@
+{
+  "name": "bank-account",
+  "version": "1.0.0",
+  "description": "bank account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "akaguiz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0"
+  }
+}
